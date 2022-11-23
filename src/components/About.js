@@ -23,7 +23,7 @@ export default function About(props) {
                 color:'black',
                 backgroundColor:'white'
             })
-            setBtn("Enable Dark Mode");
+            setBtn("Enable Dark Modes");
 
         }
 
